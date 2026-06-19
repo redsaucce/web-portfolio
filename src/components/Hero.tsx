@@ -67,7 +67,7 @@ export default function Hero() {
               }`}
             >
             <div className="w-full max-w-xl sm:max-w-2xl lg:max-w-none text-center lg:text-left lg:pr-10">
-              <h1 className="text-2xl sm:text-3xl xl:text-4xl font-bold tracking-tight mb-5 max-w-3xl mx-auto lg:mx-0 text-slate-900 leading-tight">
+              <h1 className="text-3xl sm:text-3xl xl:text-4xl font-bold tracking-tight mb-5 max-w-3xl mx-auto lg:mx-0 text-slate-900 leading-tight">
                 Front-End Developer focused on
                 <span className="gradient-text-warm"> performance, usability &amp; design.</span>
               </h1>
